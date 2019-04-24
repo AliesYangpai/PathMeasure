@@ -15,6 +15,11 @@
 
     <org.alie.pathmeasure.view.FlyRoundView
         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        />
+    <org.alie.pathmeasure.view.LoadView
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
 </LinearLayout>
